@@ -1,1 +1,1 @@
-# Power BI Sample-Project
+# Power BI Project
